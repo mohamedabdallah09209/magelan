@@ -1,5 +1,14 @@
 # magelan
 
+
+![33](https://user-images.githubusercontent.com/57531826/216769621-e9ae0ec5-395d-453d-adeb-5f93f538d114.jpg)
+
+![34](https://user-images.githubusercontent.com/57531826/216769624-c9710ab0-b0e7-461b-8bbb-1fdc12096247.jpg)
+
+![35](https://user-images.githubusercontent.com/57531826/216769628-28ebadd8-2ee2-4f30-a59c-0741285df9f3.jpg)
+
+
+
 A new Flutter project.
 
 ## Getting Started
